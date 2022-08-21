@@ -4,9 +4,9 @@ const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
 const IMG_SRC = './src/icons';
 const ICON_LINK =
-  'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/';
+  'https://raw.githubusercontent.com/Abyscuit/ethereum-lists/master/src/icons/';
 const CONTRACT_LINK =
-  'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/';
+  'https://raw.githubusercontent.com/Abyscuit/ethereum-lists/master/src/tokens/';
 
 function generateMasterFile() {
   const mainArr = [];

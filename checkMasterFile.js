@@ -26,6 +26,7 @@ const constraints = {
         'goerli',
         'iolite',
         'kov',
+        'kcc',
         'mix',
         'matic',
         'music',
